@@ -10,8 +10,9 @@ You should save your completed code to your github repository and notify me by [
 
 | Order | Lesson                                         |
 | ----: | :--------------------------------------------- |
-|     1 | [Numpy](numpy.ipynb)                           |
-|     2 | [Pandas](pandas.ipynb)                         |
+|     1 | [Quickstart](Quickstart.ipynb)
+|     1 | [Numpy](Numpy.ipynb)                           |
+|     2 | [Pandas](Pandas.ipynb)                         |
 |     3 | [kNN and SciKit-Learn](intro_to_sklearn.ipynb) |
 |     4 | [Decision Trees](decision_trees.ipynb)         |
 |     5 | [Working With Data](WorkingWithData.ipynb)     |
